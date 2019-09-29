@@ -1,4 +1,4 @@
-# Solutions to Adhoc problems i often ask Engineers applying for a role in our team
+# Solutions to adhoc problems i often ask Engineers applying for a role in our team
 
 Q1 # I need to iterate over x number of repositories and update them all locally 
 
